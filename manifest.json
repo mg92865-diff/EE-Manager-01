@@ -3,12 +3,12 @@
   "name": "Employee Records Manager",
   "icons": [
     {
-      "src": "https://via.placeholder.com/192",
+      "src": "icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://via.placeholder.com/512",
+      "src": "icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
